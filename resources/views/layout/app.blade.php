@@ -128,7 +128,7 @@
         </div>
     </div>
 
-    @yield('content');
+    @yield('content')
 
     <!-- Start Footer -->
     <footer class="bg-dark" id="tempaltemo_footer">

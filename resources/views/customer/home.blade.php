@@ -2,7 +2,7 @@
 
 @section('content')
     <!-- Start Banner Hero -->
-    <div id="template-mo-zay-hero-carousel" class="carousel slide d-none" data-bs-ride="carousel">
+    <div id="template-mo-zay-hero-carousel" class="carousel slide" data-bs-ride="carousel">
         <ol class="carousel-indicators">
             <li data-bs-target="#template-mo-zay-hero-carousel" data-bs-slide-to="0" class="active"></li>
             <li data-bs-target="#template-mo-zay-hero-carousel" data-bs-slide-to="1"></li>
@@ -81,7 +81,7 @@
 
 
     <!-- Start Categories of The Month -->
-    <section class="container py-5 d-none">
+    <section class="container py-5">
         <div class="row text-center pt-3">
             <div class="col-lg-6 m-auto">
                 <h1 class="h1">Categories of The Month</h1>
